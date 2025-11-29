@@ -9,7 +9,7 @@ navbar:
     - text: "Research"
       href: research.html
     - text: "CV"
-      href: "cv/ROCHER_Anthony_Resume.pdf"
+      href: "resume/ROCHER_Anthony_Resume.pdf"
     - icon: fa fa-github
       href: https://github.com/anthonyrocher
 output:
