@@ -7,7 +7,7 @@ title: "Research"
 :::: {style="display: flex; align-items: center; justify-content: space-between;"}
 
 ::: {.column width="40%"}
-[![](vercors.JPG){width=100%}](https://github.com/anthonyrocher/master_thesis)
+[![](img/vercors.JPG){width=100%}](https://github.com/anthonyrocher/master_thesis)
 :::
 
 ::: {.column width="57%"}
