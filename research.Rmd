@@ -5,15 +5,14 @@ title: "Research"
 ## Master Thesis
 
 :::: {style="display: flex; align-items: center; justify-content: space-between;"}
-
 ::: {.column width="40%"}
-[![](img/vercors.JPG){width=100%}](https://github.com/anthonyrocher/master_thesis)
+[![](img/vercors.jpg){width=100%}](https://github.com/anthonyrocher/master_thesis)
 :::
 
 ::: {.column width="57%"}
 [Risk mapping in Japan:<br />effects on land and real estate prices](https://github.com/anthonyrocher/master_thesis)
 
-<sub>Working paper [`r fontawesome::fa("file-pdf")`](https://path/to/the.pdf)</sub>
+<sub>[Working paper `r fontawesome::fa("file-pdf")`](https://path/to/the.pdf)</sub>
 :::
 ::::
 
