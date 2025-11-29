@@ -1,0 +1,15 @@
+---
+title: "Anthony Rocher"
+description: |
+  Welcome to my personal website - page under construction
+site: distill::distill_website
+---
+
+<div class="contact-links">
+[`r fontawesome::fa("envelope")` Email](mailto:anthony.rocher@ens-lyon.fr)
+[`r fontawesome::fa("github")` GitHub](https://github.com/anthonyrocher)
+</div>
+
+## About Me
+
+I graduated from **ENS Lyon** with a degree in **Advanced Economics**. My main interests are **urban economics**, **real estate economics**, and **environmental economics**. This year, I am writing my master's thesis on earthquake-risk mapping and its impact on land and real estate prices in Japan. I am also learning Japanese, as I will be participating in an exchange program in Kobe starting in April.

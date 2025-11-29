@@ -1,0 +1,37 @@
+/* Personnalisation de la navbar */
+.distill-site-nav {
+  background-color: #2c3e50;
+  border-bottom: 2px solid #3498db;
+}
+
+.distill-site-nav a {
+  color: white;
+  font-weight: 500;
+}
+
+.distill-site-nav a:hover {
+  color: #3498db;
+}
+
+/* Personnalisation du contenu */
+d-article {
+  font-size: 1.1rem;
+}
+
+d-title h1 {
+  color: #2c3e50;
+  font-size: 2.5rem;
+}
+
+
+/* Liens personnalisés */
+.contact-links {
+  text-align: center;
+  font-size: 1.2rem;
+  margin: 20px 0;
+}
+
+.contact-links a {
+  margin: 0 15px;
+  color: #3498db;
+}
