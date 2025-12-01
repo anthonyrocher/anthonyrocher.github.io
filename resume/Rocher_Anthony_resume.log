@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.13)  30 NOV 2025 14:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.13)  1 DEC 2025 15:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1021,7 +1021,7 @@ File: T1lato-TLF.fd 2019/06/24 Font definitions for T1/lato-TLF.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
 (Font)              scaled to size 10.95pt on input line 80.
 
-No file Rocher_Anthony_resume.aux.
+(./Rocher_Anthony_resume.aux)
 \openout1 = `Rocher_Anthony_resume.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 80.
@@ -1042,6 +1042,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 80.
 LaTeX Font Info:    ... okay on input line 80.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 80.
 LaTeX Font Info:    ... okay on input line 80.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -1118,6 +1119,7 @@ Package biblatex Info: Reference segment=0 on input line 80.
 \c@mv@tabular=\count451
 \c@mv@boldtabular=\count452
 Package hyperref Info: Link coloring ON on input line 80.
+(./Rocher_Anthony_resume.out) (./Rocher_Anthony_resume.out)
 \@outlinefile=\write5
 \openout5 = `Rocher_Anthony_resume.out'.
 
@@ -1133,6 +1135,7 @@ LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
 (Font)              scaled to size 10.95pt on input line 101.
 LaTeX Font Info:    Trying to load font information for U+fontawesomeone on inp
 ut line 101.
+
 (/usr/local/texlive/2023/texmf-dist/tex/latex/fontawesome/ufontawesomeone.fd
 File: ufontawesomeone.fd 2016/05/22 Font definitions for U/fontawesomeone.
 )
@@ -1169,46 +1172,33 @@ LaTeX Font Info:    Font shape `T1/lato-TLF/m/it' will be
 (Font)              scaled to size 10.95pt on input line 163.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/sc' will be
 (Font)              scaled to size 10.95pt on input line 171.
-LaTeX Font Info:    Font shape `T1/lato-TLF/m/sc' will be
-(Font)              scaled to size 10.95pt on input line 204.
-LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <6> on input line 206.
-LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 206.
 [1
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
 al/texlive/2023/texmf-dist/fonts/enc/dvips/lato/a_cl4kdn.enc}{/usr/local/texliv
 e/2023/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc}{/usr/local/te
 xlive/2023/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}]
+LaTeX Font Info:    Font shape `T1/lato-TLF/m/sc' will be
+(Font)              scaled to size 10.95pt on input line 204.
+LaTeX Font Info:    External font `cmex7' loaded for size
+(Font)              <6> on input line 206.
+LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
+(Font)              scaled to size 8.0pt on input line 206.
+
 [2] (./Rocher_Anthony_resume.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were undefined references.
-
-
-Package rerunfilecheck Warning: File `Rocher_Anthony_resume.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Rocher_Anthony_resume.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                Rocher_Anthony_resume
-(biblatex)                and rerun LaTeX afterwards.
-
+Package rerunfilecheck Info: File `Rocher_Anthony_resume.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package logreq Info: Writing requests to 'Rocher_Anthony_resume.run.xml'.
 \openout1 = `Rocher_Anthony_resume.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33393 strings out of 476025
- 668362 string characters out of 5790017
- 1871388 words of memory out of 5000000
+ 33399 strings out of 476025
+ 668518 string characters out of 5790017
+ 1869388 words of memory out of 5000000
  53357 multiletter control sequences out of 15000+600000
  762571 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1218,7 +1208,7 @@ e.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/typoland/lato/Lato-Bold.p
 fb></usr/local/texlive/2023/texmf-dist/fonts/type1/typoland/lato/Lato-Italic.pf
 b></usr/local/texlive/2023/texmf-dist/fonts/type1/typoland/lato/Lato-Regular.pf
 b>
-Output written on Rocher_Anthony_resume.pdf (2 pages, 94476 bytes).
+Output written on Rocher_Anthony_resume.pdf (2 pages, 95190 bytes).
 PDF statistics:
  49 PDF objects out of 1000 (max. 8388607)
  35 compressed objects within 1 object stream
