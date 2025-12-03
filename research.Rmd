@@ -12,7 +12,7 @@ title: "Research"
 ::: {.column width="57%"}
 [Risk mapping in Japan:<br />effects on land and real estate prices](https://github.com/anthonyrocher/master_thesis)
 
-<sub>[Working paper `r fontawesome::fa("file-pdf")`](https://path/to/the.pdf)</sub>
+<sub>[Research proposal `r fontawesome::fa("file-pdf")`](https://path/to/the.pdf)</sub>
 :::
 ::::
 
