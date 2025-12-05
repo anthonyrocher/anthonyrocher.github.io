@@ -12,7 +12,7 @@ title: "Research"
 ::: {.column width="57%"}
 [Seismic Hazard Mapping In Japan:<br />effects on land and real estate prices](https://github.com/anthonyrocher/master_thesis)
 
-<sub>[Research proposal `r fontawesome::fa("file-pdf")`](https://github.com/anthonyrocher/master_thesis/raw/main/outputs/research_proposal.pdf)
+<sub>[Research proposal `r fontawesome::fa("file-pdf")`](https://anthonyrocher.github.io/master_thesis/outputs/research_proposal.pdf)
 :::
 ::::
 
