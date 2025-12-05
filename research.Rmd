@@ -10,10 +10,22 @@ title: "Research"
 :::
 
 ::: {.column width="57%"}
-[Risk mapping in Japan:<br />effects on land and real estate prices](https://github.com/anthonyrocher/master_thesis)
+[Seismic Hazard Mapping In Japan:<br />effects on land and real estate prices](https://github.com/anthonyrocher/master_thesis)
 
-<sub>[Research proposal `r fontawesome::fa("file-pdf")`](https://path/to/the.pdf)</sub>
+<sub>[Research proposal `r fontawesome::fa("file-pdf")`](https://github.com/anthonyrocher/master_thesis/raw/main/outputs/research_proposal.pdf)
 :::
 ::::
 
 ## Machine Learning Project
+
+:::: {style="display: flex; align-items: center; justify-content: space-between;"}
+::: {.column width="40%"}
+[![](img/neige.jpg){width=100%}](https://github.com/anthonyrocher/machine_learning_project)
+:::
+
+::: {.column width="57%"}
+[Predicting the risk of developing a tumor](https://github.com/anthonyrocher/machine_learning_project)
+
+<sub>Project website [`r fontawesome::fa("external-link")`](https://anthonyrocher.github.io/machine_learning_project/)</sub>
+:::
+::::
