@@ -26,6 +26,6 @@ title: "Research"
 ::: {.column width="57%"}
 [Predicting the risk of developing a tumor](https://github.com/anthonyrocher/machine_learning_project)
 
-<sub>Project website [`r fontawesome::fa("external-link")`](https://anthonyrocher.github.io/machine_learning_project/)</sub>
+<sub>Project website [`r fontawesome::fa("external-link")`](https://anthonyrocher.github.io/machine_learning_project/index.html)</sub>
 :::
 ::::
