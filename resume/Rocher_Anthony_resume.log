@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.13)  3 DEC 2025 17:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.13)  13 JAN 2026 23:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1171,7 +1171,7 @@ LaTeX Font Warning: Font shape `T1/lato-TLF/b/sc' undefined
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/it' will be
 (Font)              scaled to size 10.95pt on input line 163.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/sc' will be
-(Font)              scaled to size 10.95pt on input line 171.
+(Font)              scaled to size 10.95pt on input line 173.
 [1
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
@@ -1179,11 +1179,11 @@ al/texlive/2023/texmf-dist/fonts/enc/dvips/lato/a_cl4kdn.enc}{/usr/local/texliv
 e/2023/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc}{/usr/local/te
 xlive/2023/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}]
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/sc' will be
-(Font)              scaled to size 10.95pt on input line 200.
+(Font)              scaled to size 10.95pt on input line 202.
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <6> on input line 202.
+(Font)              <6> on input line 204.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 202.
+(Font)              scaled to size 8.0pt on input line 204.
 
 [2] (./Rocher_Anthony_resume.aux)
 
@@ -1196,10 +1196,10 @@ Package logreq Info: Writing requests to 'Rocher_Anthony_resume.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33399 strings out of 476025
- 668518 string characters out of 5790017
+ 33400 strings out of 476025
+ 668533 string characters out of 5790017
  1870388 words of memory out of 5000000
- 53357 multiletter control sequences out of 15000+600000
+ 53358 multiletter control sequences out of 15000+600000
  762571 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  117i,8n,118p,1166b,850s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1208,7 +1208,7 @@ e.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/typoland/lato/Lato-Bold.p
 fb></usr/local/texlive/2023/texmf-dist/fonts/type1/typoland/lato/Lato-Italic.pf
 b></usr/local/texlive/2023/texmf-dist/fonts/type1/typoland/lato/Lato-Regular.pf
 b>
-Output written on Rocher_Anthony_resume.pdf (2 pages, 95540 bytes).
+Output written on Rocher_Anthony_resume.pdf (2 pages, 98434 bytes).
 PDF statistics:
  49 PDF objects out of 1000 (max. 8388607)
  35 compressed objects within 1 object stream

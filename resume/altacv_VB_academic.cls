@@ -178,6 +178,20 @@
 	}
   	\medskip
 	}
+	
+\newcommand{\cveventabstract}[5]{%
+  {\normalsize \color{accent}\textbf{#1}\hfill \ifstrequal{#3}{}{}{\small \color{emphasis}\hspace{0.5em}#3} \par}
+  \vspace{2pt}
+  \normalsize \color{body}\quad #2 \hfill \ifstrequal{#4}{}{}{\small \color{NiceRed} \faMapMarker \color{body} \hspace{0.3em} \textit{#4}} \par
+  \ifstrequal{#5}{}{}{ %
+    \vspace{4pt}
+    \begin{adjustwidth}{0.5cm}{0.5cm}
+      \justifying
+      \normalsize\textbf{\textsc{Abstract:}} #5
+    \end{adjustwidth}
+  }
+  \vspace{8pt}
+}
 
 \newcommand{\cvachievement}[3]{%
   \begin{tabularx}{\linewidth}{@{}p{2em} @{\hspace{1ex}} >{\raggedright\arraybackslash}X@{}}
