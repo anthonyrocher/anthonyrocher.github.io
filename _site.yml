@@ -8,6 +8,8 @@ navbar:
       href: index.html
     - text: "Research"
       href: research.html
+    - text: "Code"
+      href: code.html
     - text: "Resume"
       href: "/resume/ROCHER_Anthony_resume.pdf"
     - icon: fa fa-github
