@@ -2,7 +2,7 @@
 title: "Research"
 ---
 
-## Master Thesis in Progress
+## Master's Thesis in Progress
 
 :::: {style="display: flex; align-items: center; justify-content: space-between;"}
 ::: {.column width="40%"}

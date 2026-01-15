@@ -2,6 +2,20 @@
 title: "Code - Forthcoming"
 ---
 
+## Mapping Japan
+
+:::: {style="display: flex; align-items: center; justify-content: space-between;"}
+::: {.column width="40%"}
+[![](img/japan.jpg){width=100% style="height: 150px; object-fit: cover; object-position: center;"}]()
+:::
+
+::: {.column width="57%"}
+[Learning QGIS with data from Japan]()
+
+<sub>Project website [`r fontawesome::fa("external-link")`]()</sub>
+:::
+::::
+
 ## Machine Learning Project
 
 :::: {style="display: flex; align-items: center; justify-content: space-between;"}
@@ -13,5 +27,19 @@ title: "Code - Forthcoming"
 [Predicting the risk of developing a tumor](https://github.com/anthonyrocher/machine_learning_project)
 
 <sub>Project website [`r fontawesome::fa("external-link")`](https://anthonyrocher.github.io/machine_learning_project/index.html)</sub>
+:::
+::::
+
+## Internship in Information Economics
+
+:::: {style="display: flex; align-items: center; justify-content: space-between;"}
+::: {.column width="40%"}
+[![](img/media.jpg){width=100% style="height: 150px; object-fit: cover; object-position: center;"}]()
+:::
+
+::: {.column width="57%"}
+[Media Regulation and Viewer Reactions:<br /> The Case of C8’s Closure in France]()
+
+<sub>Project website [`r fontawesome::fa("external-link")`]()</sub>
 :::
 ::::
