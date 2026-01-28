@@ -30,15 +30,15 @@ title: "Code - Forthcoming"
 :::
 ::::
 
-## Internship in Information Economics
+## Simulation Final Project
 
 :::: {style="display: flex; align-items: center; justify-content: space-between;"}
 ::: {.column width="40%"}
-[![](img/media.jpg){width=100% style="height: 150px; object-fit: cover; object-position: center;"}]()
+[![](img/kobe.jpg){width=100% style="height: 150px; object-fit: cover; object-position: center;"}]()
 :::
 
 ::: {.column width="57%"}
-[Media Regulation and Viewer Reactions:<br /> The Case of C8’s Closure in France]()
+[Simulation exercice:<br /> Preparing for the master's thesis]()
 
 <sub>Project website [`r fontawesome::fa("external-link")`]()</sub>
 :::
