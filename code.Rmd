@@ -29,17 +29,3 @@ title: "Code - Forthcoming"
 <sub>Project website [`r fontawesome::fa("external-link")`](https://anthonyrocher.github.io/machine_learning_project/index.html)</sub>
 :::
 ::::
-
-## Simulation Final Project
-
-:::: {style="display: flex; align-items: center; justify-content: space-between;"}
-::: {.column width="40%"}
-[![](img/kobe.jpg){width=100% style="height: 150px; object-fit: cover; object-position: center;"}]()
-:::
-
-::: {.column width="57%"}
-[Simulation exercice:<br /> Preparing for the master's thesis]()
-
-<sub>Project website [`r fontawesome::fa("external-link")`]()</sub>
-:::
-::::
