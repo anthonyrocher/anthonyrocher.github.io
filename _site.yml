@@ -1,6 +1,7 @@
 name: " anthonyrocher_website"
 title: "Anthony Rocher"
 base_url: https://anthonyrocher.github.io/
+output_dir: "docs"
 navbar:
   title: "Anthony Rocher"
   right:

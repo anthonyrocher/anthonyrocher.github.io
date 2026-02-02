@@ -12,5 +12,5 @@ site: distill::distill_website
 
 ## About Me
 
-I graduated from **ENS Lyon** with a degree in **Advanced Economics**. My main interests are **urban economics**, **real estate economics**, and **environmental economics**. This year, I am writing my master's thesis on earthquake-risk mapping and its impact on land and real estate prices in Japan. I am also learning Japanese, as I will be participating in an exchange program in Kobe starting in April.
+I am in my final year of my master's degree in **Advanced Economics** at the **ENS of Lyon**. My main interests are **urban economics**, **real estate economics**, and **environmental economics**. I am writing my master's thesis on earthquake-risk mapping and its impact on land and real estate prices in Japan. I will visit the Department of Economics of Kobe University starting in March.
 
