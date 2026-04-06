@@ -6,12 +6,13 @@ title: "Research"
 
 :::: {style="display: flex; align-items: center; justify-content: space-between;"}
 ::: {.column width="40%"}
-[![](img/vercors.jpg){width=100%}](https://github.com/anthonyrocher/master_thesis)
+[![](img/vercors.jpg){width=100%}](https://anthonyrocher.github.io/Master-s-Thesis-Website/)
 :::
 
 ::: {.column width="57%"}
-[Seismic Hazard Mapping In Japan:<br />effects on land and real estate prices](https://github.com/anthonyrocher/master_thesis)
+[Seismic Hazard Mapping In Japan:<br />effects on land and real estate prices](https://anthonyrocher.github.io/Master-s-Thesis-Website/)
 
-<sub>Project website [`r fontawesome::fa("external-link")`](https://anthonyrocher.github.io/master_thesis/)</sub>
+<sub>Project website [`r fontawesome::fa("external-link")`](https://anthonyrocher.github.io/Master-s-Thesis-Website/)</sub>
 :::
 ::::
+
